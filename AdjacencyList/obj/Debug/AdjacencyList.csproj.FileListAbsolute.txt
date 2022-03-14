@@ -1,0 +1,7 @@
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\bin\Debug\AdjacencyList.exe.config
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\bin\Debug\AdjacencyList.exe
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\bin\Debug\AdjacencyList.pdb
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\obj\Debug\AdjacencyList.csprojAssemblyReference.cache
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\obj\Debug\AdjacencyList.csproj.CoreCompileInputs.cache
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\obj\Debug\AdjacencyList.exe
+E:\_my Coding\Data Structure\AdjacencyList\AdjacencyList\obj\Debug\AdjacencyList.pdb
